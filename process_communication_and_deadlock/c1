@@ -1,0 +1,91 @@
+Process ID: 1559		time: 11:51:25.467 		Dozen #: 1
+plain		jelly		coconut		honey-dip
+1		1		1		1		
+2		2		2				
+3		3		3				
+		4		4				
+
+
+Process ID: 1559		time: 11:51:25.468 		Dozen #: 2
+plain		jelly		coconut		honey-dip
+4		5		5		2		
+5		6		6		3		
+		7						
+		8						
+		9						
+		10						
+
+
+Process ID: 1559		time: 11:51:25.468 		Dozen #: 3
+plain		jelly		coconut		honey-dip
+6		11		7		4		
+7				8		5		
+8				9		6		
+						7		
+						8		
+
+
+Process ID: 1559		time: 11:51:25.468 		Dozen #: 4
+plain		jelly		coconut		honey-dip
+9		12		10		9		
+10		13		11				
+11		14		12				
+12								
+13								
+
+
+Process ID: 1559		time: 11:51:25.468 		Dozen #: 5
+plain		jelly		coconut		honey-dip
+14		15		13		10		
+15		16				11		
+16		17						
+17								
+18								
+19								
+
+
+Process ID: 1559		time: 11:51:25.468 		Dozen #: 6
+plain		jelly		coconut		honey-dip
+20		18		14		12		
+		19		15		13		
+		20				14		
+		21				15		
+		22						
+
+
+Process ID: 1559		time: 11:51:25.468 		Dozen #: 7
+plain		jelly		coconut		honey-dip
+21		23		16		16		
+22		24		17		17		
+		25		18		18		
+						19		
+
+
+Process ID: 1559		time: 11:51:25.468 		Dozen #: 8
+plain		jelly		coconut		honey-dip
+23		26				20		
+24		27				21		
+		28				22		
+		29				23		
+						24		
+						25		
+
+
+Process ID: 1559		time: 11:51:25.468 		Dozen #: 9
+plain		jelly		coconut		honey-dip
+25		30		19		26		
+26		31		20				
+27		32		21				
+		33		22				
+
+
+Process ID: 1559		time: 11:51:25.468 		Dozen #: 10
+plain		jelly		coconut		honey-dip
+28				23		27		
+29				24		28		
+				25		29		
+				26		30		
+						31		
+						32		
+
+

@@ -1,0 +1,11 @@
+Student name: Viet Dinh
+
+Email: viet_dinh@student.uml.edu
+
+I think that my degree of success with the project is about 100%. It is expected that the program which works with "grep" run well on the first data file and become deadlocked when running on second data file. The parent process has to transfer all data to the child process before processing any data coming back from the child process. The child process keeps processing data from the parent and return processed data to the parent via second pipe. The parent cannot receive any data from the child, because it is still transferring data to the child. Therefore the data transferred from the child must be keeps in the second pipe's buffer. Since the data file is too large, the parent cannot finish tranferring data before the second pipe's buffer become full with data transferred from the child. At this point, the child cannot push any more processed data into the second pipe and become blocked. The child is blocked causing it cannot get any more data sent by the parent via the first pipe. Then the parent will never finish transferring data to the child to proceed to the next step. This is how the program which works with "grep" will become deadlocked when running with the second data file.
+
+To build the program, open a terminal window, navigate to the project's directory, run "make" command.
+
+To test the project, run the flowing commands:
+	./s
+	./g

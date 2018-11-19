@@ -1,0 +1,13 @@
+vdinh@cs1:~/cs308/Dinh_Viet_hw2$ ./s
+area code: 103 occurs 87 times
+area code: 215 occurs 107 times
+area code: 220 occurs 114 times
+area code: 316 occurs 96 times
+area code: 403 occurs 100 times
+area code: 508 occurs 101 times
+area code: 579 occurs 103 times
+area code: 604 occurs 86 times
+area code: 617 occurs 88 times
+area code: 783 occurs 77 times
+vdinh@cs3:~/cs308/Dinh_Viet_hw2$ ./g
+Number of lines containing "123": 28
